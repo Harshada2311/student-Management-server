@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "harshada",
+        "Email": "Harshada@gamil.com",
+        "Course": "MERNStack",
+        "Fees": 1200
+    },
+    {
+        "id": 2,
+        "name": "Maya",
+        "Email": "Maya@gamil.com",
+        "Course": "Angular",
+        "Fees": 1300
+    },
+    {
+        "id": 3,
+        "name": "Jaya",
+        "Email": "Jaya@gamil.com",
+        "Course": "Java Full Stack",
+        "Fees": 1500
+    },
+    {
+        "id": 4,
+        "name": "yash",
+        "Email": "yash@gamil.com",
+        "Course": "MEANStack",
+        "Fees": 1200
+    }
+]
